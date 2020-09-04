@@ -1,0 +1,18 @@
+a{
+    text-align: center;
+    text-decoration:none;
+    font-size: 145%;
+    margin: 206px;
+    color:rgb(255 255 255);
+}
+table{
+    background-color: rgb(100 15 255);
+    padding: 9px;
+}   
+
+a:hover{
+    color: skyblue;
+}
+iframe{
+    border-block-color: rgb(100 15 255);
+}
